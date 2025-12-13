@@ -8,7 +8,7 @@ This is a machine learning study repository following the "파이썬 머신러�
 
 ## Development Environment
 
-- Python 3.9.6
+- Python 3.13.11
 - Virtual environment: `.venv/` (activated via `source .venv/bin/activate`)
 - Primary tools: Jupyter notebooks for interactive ML experimentation
 - Data science stack: scikit-learn, pandas, numpy, matplotlib
@@ -140,5 +140,6 @@ Standard NLP pipeline:
 Recent commits use emoji prefixes:
 - `:sparkles:` - New feature/topic implementation
 - `:recycle:` - Refactoring
+- `:memo:` - New/modify document 
 
 Branch: `develop` (main development branch)
