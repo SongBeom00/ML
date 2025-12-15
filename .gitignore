@@ -7,3 +7,5 @@ perfect_guide/8장/labeledTrainData.tsv
 perfect_guide/8장/topics
 .idea
 perfect_guide/9장/ml-latest-small
+!/perfect_guide/8장/ratings_train.txt
+!/perfect_guide/8장/ratings_test.txt
